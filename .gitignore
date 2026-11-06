@@ -1,0 +1,8 @@
+.venv/
+.venv-1/
+__pycache__/
+.DS_Store
+*.xlsx
+outputs/cleaned_data.csv
+outputs/removed_rows.csv
+outputs/rows_flagged_for_review.csv
