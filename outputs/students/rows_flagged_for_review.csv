@@ -1,0 +1,4 @@
+timestamp,age,freq,price,loyal,novel,cheaper,rectend,snack,brand,rec,top,review_reason
+2026-08-28 17:46:20.234,Under 18,Frequently,3,3,3,3,3,Buy it less often,Switch to Brand B,Follow the recommendation,Quality,Review: identical answer on all five Likert items
+2026-08-28 21:47:29.560,Under 18,Frequently,1,1,1,1,1,Still buy it,Stay with Brand A,Follow the recommendation,Price,Review: identical answer on all five Likert items
+2026-08-28 21:47:49.541,Under 18,Rarely,1,1,1,1,1,Still buy it,Stay with Brand A,Follow the recommendation,Price,Review: identical answer on all five Likert items

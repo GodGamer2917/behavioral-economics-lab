@@ -1,0 +1,125 @@
+timestamp,age,freq,price,loyal,novel,cheaper,rectend,snack,brand,rec,top,age_18plus,freq_ord,snack_coded,t_snack_reaction,brand_coded,t_brand_switch,rec_coded,t_rec_follow,t_quality_top
+2026-04-08 17:48:19.394,Under 18,Occasionally,4,3,2,3,3,Buy it less often,"I would still buy brand A, but just for this time, I would buy brand B.",Follow the recommendation,Quality,0,2,Buy less often,1.0,Conditional / write-in,,Follow,1.0,1
+2026-04-08 22:57:10.040,Under 18,Occasionally,5,4,4,4,3,Switch do a cheaper alternative,Switch to Brand B,Follow the recommendation,Quality,0,2,Switch to cheaper,1.0,Switch to Brand B,1.0,Follow,1.0,1
+2026-04-10 14:25:39.970,Under 18,Occasionally,5,3,3,1,2,Buy it less often,Stay with Brand A,Ignore it,Quality,0,2,Buy less often,1.0,Stay with Brand A,0.0,Ignore,0.0,1
+2026-04-10 14:26:40.104,Under 18,Occasionally,4,3,2,3,3,Buy it less often,Stay with Brand A,Follow the recommendation,Quality,0,2,Buy less often,1.0,Stay with Brand A,0.0,Follow,1.0,1
+2026-04-10 14:30:03.856,Under 18,Regularly,4,5,3,2,4,Still buy it,Switch to Brand B,Ignore it,Quality,0,3,Still buy,0.0,Switch to Brand B,1.0,Ignore,0.0,1
+2026-04-10 14:36:19.210,Under 18,Frequently,4,4,3,3,4,Buy it less often,Switch to Brand B,Follow the recommendation,Quality,0,4,Buy less often,1.0,Switch to Brand B,1.0,Follow,1.0,1
+2026-04-10 14:38:07.377,Under 18,Occasionally,5,3,4,4,3,Buy it less often,depends on the product,Follow the recommendation,Convenience,0,2,Buy less often,1.0,Conditional / write-in,,Follow,1.0,0
+2026-04-10 14:40:31.965,Under 18,Occasionally,4,4,2,4,3,Buy it less often,Stay with Brand A,Ignore it,Quality,0,2,Buy less often,1.0,Stay with Brand A,0.0,Ignore,0.0,1
+2026-04-10 14:44:58.892,Under 18,Occasionally,4,4,2,2,4,Buy it less often,Switch to Brand B,Follow the recommendation,Quality,0,2,Buy less often,1.0,Switch to Brand B,1.0,Follow,1.0,1
+2026-04-10 14:47:42.564,Under 18,Frequently,5,3,3,4,3,Buy it less often,"Depends on what its about. When it comes to hardware, then no, I would stick with brand A. Swapping brands with hardware for price alone is dangerous as it could mean less effective or safe equipment. However, if the equipment is just as safe, and is just cheaper, then I would go with brand B.",Follow the recommendation,Quality,0,4,Buy less often,1.0,Conditional / write-in,,Follow,1.0,1
+2026-04-10 15:00:31.729,Under 18,Rarely,4,3,5,1,5,Buy it less often,Stay with Brand A,Ignore it,Quality,0,1,Buy less often,1.0,Stay with Brand A,0.0,Ignore,0.0,1
+2026-04-10 15:03:23.595,Under 18,Occasionally,4,3,4,2,4,Still buy it,Switch to Brand B,Check out reviews,Quality,0,2,Still buy,0.0,Switch to Brand B,1.0,Conditional / write-in,,1
+2026-04-10 15:07:41.548,Under 18,Regularly,4,4,4,3,4,Still buy it,Switch to Brand B,Follow the recommendation,Quality,0,3,Still buy,0.0,Switch to Brand B,1.0,Follow,1.0,1
+2026-04-10 15:09:53.591,Under 18,Occasionally,4,4,4,4,3,Buy it less often,Alternate based on budget,Ignore it,Quality,0,2,Buy less often,1.0,Conditional / write-in,,Ignore,0.0,1
+2026-04-10 15:15:23.052,Under 18,Rarely,4,2,1,4,3,Switch do a cheaper alternative,Stay with Brand A,Follow the recommendation,Quality,0,1,Switch to cheaper,1.0,Stay with Brand A,0.0,Follow,1.0,1
+2026-04-10 15:23:32.709,Under 18,Regularly,4,3,2,3,3,Still buy it,Stay with Brand A,Follow the recommendation,Quality,0,3,Still buy,0.0,Stay with Brand A,0.0,Follow,1.0,1
+2026-04-10 15:25:24.311,Under 18,Occasionally,4,2,3,4,3,Switch do a cheaper alternative,Switch to Brand B,Follow the recommendation,Quality,0,2,Switch to cheaper,1.0,Switch to Brand B,1.0,Follow,1.0,1
+2026-04-10 15:31:08.010,Under 18,Occasionally,3,2,4,4,4,Buy it less often,Switch to Brand B,Follow the recommendation,Convenience,0,2,Buy less often,1.0,Switch to Brand B,1.0,Follow,1.0,0
+2026-04-10 15:35:28.366,Under 18,Occasionally,4,4,3,3,3,Buy it less often,Stay with Brand A,Follow the recommendation,Quality,0,2,Buy less often,1.0,Stay with Brand A,0.0,Follow,1.0,1
+2026-04-10 15:41:00.721,Under 18,Frequently,4,3,3,3,3,Still buy it,Stay with Brand A,Ignore it,Convenience,0,4,Still buy,0.0,Stay with Brand A,0.0,Ignore,0.0,0
+2026-04-10 15:49:05.208,Under 18,Rarely,2,1,4,1,3,Still buy it,Stay with Brand A,Follow the recommendation,Quality,0,1,Still buy,0.0,Stay with Brand A,0.0,Follow,1.0,1
+2026-04-10 15:49:06.939,Under 18,Occasionally,4,3,4,4,4,Switch do a cheaper alternative,Switch to Brand B,Follow the recommendation,Quality,0,2,Switch to cheaper,1.0,Switch to Brand B,1.0,Follow,1.0,1
+2026-04-10 16:25:43.034,Under 18,Frequently,3,3,4,4,4,Buy it less often,Switch to Brand B,Follow the recommendation,Quality,0,4,Buy less often,1.0,Switch to Brand B,1.0,Follow,1.0,1
+2026-04-10 16:35:53.809,Under 18,Frequently,4,4,3,5,4,Buy it less often,Switch to Brand B,Depends what mom say😭,Quality,0,4,Buy less often,1.0,Switch to Brand B,1.0,Conditional / write-in,,1
+2026-04-10 16:37:15.944,Under 18,Occasionally,2,2,3,3,2,Switch do a cheaper alternative,Stay with Brand A,Follow the recommendation,Quality,0,2,Switch to cheaper,1.0,Stay with Brand A,0.0,Follow,1.0,1
+2026-04-10 16:40:31.375,Under 18,Regularly,4,4,5,3,4,Buy it less often,"Try it, if I don’t like B then I stick with A",Follow the recommendation,Price,0,3,Buy less often,1.0,Conditional / write-in,,Follow,1.0,0
+2026-04-10 16:50:30.456,Under 18,Frequently,4,2,4,4,2,Switch do a cheaper alternative,Switch to Brand B,Follow the recommendation,Price,0,4,Switch to cheaper,1.0,Switch to Brand B,1.0,Follow,1.0,0
+2026-04-10 16:52:41.175,Under 18,Frequently,5,2,4,4,2,Buy it less often,Switch to Brand B,Ignore it,Convenience,0,4,Buy less often,1.0,Switch to Brand B,1.0,Ignore,0.0,0
+2026-04-10 16:53:24.611,Under 18,Occasionally,5,3,2,3,3,Switch do a cheaper alternative,Switch to Brand B,Ignore it,Quality,0,2,Switch to cheaper,1.0,Switch to Brand B,1.0,Ignore,0.0,1
+2026-04-10 16:56:42.009,Under 18,Occasionally,5,3,3,2,4,Switch do a cheaper alternative,Stay with Brand A,Ignore it,Convenience,0,2,Switch to cheaper,1.0,Stay with Brand A,0.0,Ignore,0.0,0
+2026-04-10 17:20:03.082,Under 18,Frequently,3,2,4,2,3,Buy it less often,Switch to Brand B,Follow the recommendation,Quality,0,4,Buy less often,1.0,Switch to Brand B,1.0,Follow,1.0,1
+2026-04-10 17:26:08.272,Under 18,Occasionally,4,2,3,3,2,Buy it less often,Switch to Brand B,Follow the recommendation,Price,0,2,Buy less often,1.0,Switch to Brand B,1.0,Follow,1.0,0
+2026-04-10 17:27:15.836,Under 18,Occasionally,4,3,3,4,2,Still buy it,Stay with Brand A,I'll consider it,Quality,0,2,Still buy,0.0,Stay with Brand A,0.0,Conditional / write-in,,1
+2026-04-10 17:39:49.487,Under 18,Frequently,4,5,2,2,3,Buy it less often,Stay with Brand A,Follow the recommendation,Quality,0,4,Buy less often,1.0,Stay with Brand A,0.0,Follow,1.0,1
+2026-04-10 19:12:08.398,Under 18,Occasionally,3,2,5,4,4,Buy it less often,Switch to Brand B,Follow the recommendation,Quality,0,2,Buy less often,1.0,Switch to Brand B,1.0,Follow,1.0,1
+2026-04-10 19:31:33.396,Under 18,Regularly,4,3,4,4,4,Buy it less often,Switch to Brand B,Follow the recommendation,Quality,0,3,Buy less often,1.0,Switch to Brand B,1.0,Follow,1.0,1
+2026-04-10 20:34:17.957,Under 18,Occasionally,4,3,4,3,3,Buy it less often,Switch to Brand B,Ignore it,Price,0,2,Buy less often,1.0,Switch to Brand B,1.0,Ignore,0.0,0
+2026-04-10 22:42:44.086,Under 18,Occasionally,5,4,3,3,4,Buy it less often,Switch to Brand B,Follow the recommendation,Quality,0,2,Buy less often,1.0,Switch to Brand B,1.0,Follow,1.0,1
+2026-04-10 23:21:02.282,Under 18,Occasionally,4,2,3,4,3,Buy it less often,Switch to Brand B,Follow the recommendation,Quality,0,2,Buy less often,1.0,Switch to Brand B,1.0,Follow,1.0,1
+2026-04-10 23:25:46.745,Under 18,Frequently,4,2,5,5,4,Still buy it,Switch to Brand B,Follow the recommendation,Quality,0,4,Still buy,0.0,Switch to Brand B,1.0,Follow,1.0,1
+2026-04-10 23:27:01.597,Under 18,Occasionally,4,3,2,3,3,Still buy it,"if it’s something like clothes or shoes, i would stay with brand A, but if it’s something like snacks, i would switch to brand B",Follow the recommendation,Quality,0,2,Still buy,0.0,Conditional / write-in,,Follow,1.0,1
+2026-04-10 23:34:56.202,Under 18,Occasionally,5,2,5,4,2,Buy it less often,Switch to Brand B,Follow the recommendation,Quality,0,2,Buy less often,1.0,Switch to Brand B,1.0,Follow,1.0,1
+2026-04-11 01:01:19.853,Under 18,Occasionally,3,4,4,3,2,Buy it less often,depends on quality,Ignore it,Quality,0,2,Buy less often,1.0,Conditional / write-in,,Ignore,0.0,1
+2026-04-11 11:46:47.498,Under 18,Occasionally,4,5,4,3,3,Still buy it,Stay with Brand A,It depends on what the product is.,Quality,0,2,Still buy,0.0,Stay with Brand A,0.0,Conditional / write-in,,1
+2026-04-11 13:20:30.562,Under 18,Occasionally,4,2,4,4,3,Still buy it,Switch to Brand B,Follow the recommendation,Quality,0,2,Still buy,0.0,Switch to Brand B,1.0,Follow,1.0,1
+2026-04-11 14:02:02.351,Under 18,Rarely,3,3,4,2,4,Buy it less often,Switch to Brand B,Follow the recommendation,Quality,0,1,Buy less often,1.0,Switch to Brand B,1.0,Follow,1.0,1
+2026-04-11 14:22:30.814,Under 18,Frequently,4,3,4,4,5,Still buy it,Stay with Brand A,Follow the recommendation,Quality,0,4,Still buy,0.0,Stay with Brand A,0.0,Follow,1.0,1
+2026-04-11 15:39:04.339,Under 18,Occasionally,4,3,2,3,2,Still buy it,See if brand B works as well as brand A,Follow the recommendation,Quality,0,2,Still buy,0.0,Conditional / write-in,,Follow,1.0,1
+2026-04-11 22:50:06.532,Under 18,Occasionally,4,2,4,3,2,Switch do a cheaper alternative,Switch to Brand B,Look at the cheaper one to see if it’s worth the switch,Convenience,0,2,Switch to cheaper,1.0,Switch to Brand B,1.0,Conditional / write-in,,0
+2026-04-12 11:34:08.280,Under 18,Frequently,5,3,3,4,4,Buy it less often,Switch to Brand B,Follow the recommendation,Quality,0,4,Buy less often,1.0,Switch to Brand B,1.0,Follow,1.0,1
+2026-04-12 13:17:14.741,Under 18,Occasionally,4,2,4,3,4,Still buy it,Switch to Brand B,Ignore it,Quality,0,2,Still buy,0.0,Switch to Brand B,1.0,Ignore,0.0,1
+2026-05-05 00:05:22.597,Under 18,Rarely,4,4,3,3,3,Stop buying it,Depends on Brand B's quality,Follow the recommendation,Quality,0,1,Stop buying,1.0,Conditional / write-in,,Follow,1.0,1
+2026-05-18 21:06:27.562,Under 18,Occasionally,5,2,4,2,3,Buy it less often,Switch to Brand B,Ignore it,Price,0,2,Buy less often,1.0,Switch to Brand B,1.0,Ignore,0.0,0
+2026-08-28 17:43:32.939,Under 18,Regularly,2,3,3,3,2,Still buy it,Idrc,Ignore it,Quality,0,3,Still buy,0.0,Conditional / write-in,,Ignore,0.0,1
+2026-08-28 17:44:59.934,Under 18,Occasionally,3,4,4,4,3,Buy it less often,Depends on the product,Follow the recommendation,Quality,0,2,Buy less often,1.0,Conditional / write-in,,Follow,1.0,1
+2026-08-28 17:46:15.410,Under 18,Regularly,4,2,3,4,3,Buy it less often,Switch to Brand B,Idk,Quality,0,3,Buy less often,1.0,Switch to Brand B,1.0,Conditional / write-in,,1
+2026-08-28 17:46:20.234,Under 18,Frequently,3,3,3,3,3,Buy it less often,Switch to Brand B,Follow the recommendation,Quality,0,4,Buy less often,1.0,Switch to Brand B,1.0,Follow,1.0,1
+2026-08-28 17:52:03.062,Under 18,Regularly,4,4,4,3,4,Still buy it,Depends on how similar,Depends on what it is,Quality,0,3,Still buy,0.0,Conditional / write-in,,Conditional / write-in,,1
+2026-08-28 17:55:03.886,Under 18,Occasionally,4,3,5,4,3,Still buy it,Switch to Brand B,Ignore it,Quality,0,2,Still buy,0.0,Switch to Brand B,1.0,Ignore,0.0,1
+2026-08-28 18:02:57.644,Under 18,Occasionally,4,3,2,3,3,Buy it less often,Depends on the quality of brands,Ignore it,Quality,0,2,Buy less often,1.0,Conditional / write-in,,Ignore,0.0,1
+2026-08-28 18:05:33.541,Under 18,Frequently,4,2,3,4,3,Buy it less often,Stay with Brand A,Ignore it,Quality,0,4,Buy less often,1.0,Stay with Brand A,0.0,Ignore,0.0,1
+2026-08-28 18:05:40.554,Under 18,Occasionally,3,4,2,2,3,Switch do a cheaper alternative,Switch to Brand B,Ignore it,Quality,0,2,Switch to cheaper,1.0,Switch to Brand B,1.0,Ignore,0.0,1
+2026-08-28 18:15:53.030,Under 18,Occasionally,5,3,2,2,2,Buy it less often,Switch to Brand B,Follow the recommendation,Price,0,2,Buy less often,1.0,Switch to Brand B,1.0,Follow,1.0,0
+2026-08-28 18:23:02.395,Under 18,Occasionally,4,3,2,3,2,Still buy it,Switch to Brand B,Follow the recommendation,Quality,0,2,Still buy,0.0,Switch to Brand B,1.0,Follow,1.0,1
+2026-08-28 18:39:40.487,Under 18,Frequently,4,2,3,4,2,Buy it less often,If the difference is barely noticeable I will switch to B,Ignore it,Quality,0,4,Buy less often,1.0,Conditional / write-in,,Ignore,0.0,1
+2026-08-28 18:42:28.805,Under 18,Regularly,3,4,4,3,3,Still buy it,Stay with Brand A,Follow the recommendation,Convenience,0,3,Still buy,0.0,Stay with Brand A,0.0,Follow,1.0,0
+2026-08-28 18:47:09.814,Under 18,Regularly,4,3,2,4,4,Still buy it,i don’t fuckin know,Follow the recommendation,Quality,0,3,Still buy,0.0,Conditional / write-in,,Follow,1.0,1
+2026-08-28 18:50:36.458,Under 18,Frequently,4,3,4,4,3,Buy it less often,Depends on the quality and if i like it better,Follow the recommendation,Quality,0,4,Buy less often,1.0,Conditional / write-in,,Follow,1.0,1
+2026-08-28 18:54:26.151,Under 18,Frequently,5,2,5,3,3,Buy it less often,Depends on quality,Follow the recommendation,Quality,0,4,Buy less often,1.0,Conditional / write-in,,Follow,1.0,1
+2026-08-28 19:14:19.941,Under 18,Frequently,4,2,4,2,4,Still buy it,Stay with Brand A,Follow the recommendation,Quality,0,4,Still buy,0.0,Stay with Brand A,0.0,Follow,1.0,1
+2026-08-28 19:31:54.336,Under 18,Occasionally,3,5,4,5,3,Still buy it,Switch to Brand B,Follow the recommendation,Brand,0,2,Still buy,0.0,Switch to Brand B,1.0,Follow,1.0,0
+2026-08-28 19:39:39.979,Under 18,Rarely,5,4,4,3,4,Buy it less often,Switch to Brand B,Ignore it,Price,0,1,Buy less often,1.0,Switch to Brand B,1.0,Ignore,0.0,0
+2026-08-28 20:06:31.986,Under 18,Occasionally,4,5,2,3,4,Buy it less often,Stay with Brand A,Ignore it,Quality,0,2,Buy less often,1.0,Stay with Brand A,0.0,Ignore,0.0,1
+2026-08-28 20:16:31.091,Under 18,Frequently,4,3,3,2,4,Buy it less often,Switch to Brand B,Ignore it,Quality,0,4,Buy less often,1.0,Switch to Brand B,1.0,Ignore,0.0,1
+2026-08-28 20:22:02.131,Under 18,Occasionally,3,3,4,4,5,Switch do a cheaper alternative,Switch to Brand B,Follow the recommendation,Brand,0,2,Switch to cheaper,1.0,Switch to Brand B,1.0,Follow,1.0,0
+2026-08-28 20:26:52.113,Under 18,Frequently,5,4,2,2,2,Still buy it,Stay with Brand A,Ignore it,Quality,0,4,Still buy,0.0,Stay with Brand A,0.0,Ignore,0.0,1
+2026-08-28 20:35:13.165,Under 18,Occasionally,4,3,3,3,2,Buy it less often,compare both brands,compare both products,Quality,0,2,Buy less often,1.0,Conditional / write-in,,Conditional / write-in,,1
+2026-08-28 20:44:37.077,Under 18,Occasionally,4,2,3,4,4,Still buy it,Switch to Brand B,Follow the recommendation,Price,0,2,Still buy,0.0,Switch to Brand B,1.0,Follow,1.0,0
+2026-08-28 20:59:34.310,Under 18,Occasionally,5,4,2,4,2,Stop buying it,Switch to Brand B,Follow the recommendation,Convenience,0,2,Stop buying,1.0,Switch to Brand B,1.0,Follow,1.0,0
+2026-08-28 21:03:11.878,Under 18,Frequently,4,3,3,5,2,Buy it less often,Switch to Brand B,Follow the recommendation,Quality,0,4,Buy less often,1.0,Switch to Brand B,1.0,Follow,1.0,1
+2026-08-28 21:30:49.302,Under 18,Occasionally,5,2,3,3,3,Buy it less often,Switch to Brand B,Follow the recommendation,Quality,0,2,Buy less often,1.0,Switch to Brand B,1.0,Follow,1.0,1
+2026-08-28 21:36:57.556,Under 18,Regularly,5,3,3,2,3,Still buy it,Switch to Brand B,Ignore it,Quality,0,3,Still buy,0.0,Switch to Brand B,1.0,Ignore,0.0,1
+2026-08-28 21:39:09.271,Under 18,Occasionally,3,4,2,3,2,Buy it less often,Stay with Brand A,Depends on what the product is,Convenience,0,2,Buy less often,1.0,Stay with Brand A,0.0,Conditional / write-in,,0
+2026-08-28 21:39:34.813,Under 18,Occasionally,4,4,3,3,4,Buy it less often,Stay with Brand A,Try it but most likely stick to original,Quality,0,2,Buy less often,1.0,Stay with Brand A,0.0,Conditional / write-in,,1
+2026-08-28 21:47:29.560,Under 18,Frequently,1,1,1,1,1,Still buy it,Stay with Brand A,Follow the recommendation,Price,0,4,Still buy,0.0,Stay with Brand A,0.0,Follow,1.0,0
+2026-08-28 21:47:49.541,Under 18,Rarely,1,1,1,1,1,Still buy it,Stay with Brand A,Follow the recommendation,Price,0,1,Still buy,0.0,Stay with Brand A,0.0,Follow,1.0,0
+2026-08-28 21:49:25.286,Under 18,Rarely,4,4,3,2,4,Still buy it,Switch to Brand B,Follow the recommendation,Quality,0,1,Still buy,0.0,Switch to Brand B,1.0,Follow,1.0,1
+2026-08-28 21:54:23.521,Under 18,Rarely,4,3,2,4,3,Buy it less often,Stay with Brand A,Follow the recommendation,Quality,0,1,Buy less often,1.0,Stay with Brand A,0.0,Follow,1.0,1
+2026-08-28 22:07:24.755,Under 18,Rarely,3,3,4,4,5,Buy it less often,Stay with Brand A,Follow the recommendation,Quality,0,1,Buy less often,1.0,Stay with Brand A,0.0,Follow,1.0,1
+2026-08-28 22:17:02.918,Under 18,Occasionally,5,3,2,3,3,Buy it less often,Switch to Brand B,Follow the recommendation,Price,0,2,Buy less often,1.0,Switch to Brand B,1.0,Follow,1.0,0
+2026-08-28 22:20:17.198,Under 18,Rarely,4,3,2,3,2,Buy it less often,Stay with Brand A,Ignore it,Quality,0,1,Buy less often,1.0,Stay with Brand A,0.0,Ignore,0.0,1
+2026-08-28 22:25:09.434,Under 18,Occasionally,4,1,2,3,2,Buy it less often,Make sure Brand B is legit before buying it,Ignore it,Price,0,2,Buy less often,1.0,Conditional / write-in,,Ignore,0.0,0
+2026-08-28 22:41:54.460,Under 18,Rarely,3,4,3,3,2,Buy it less often,Switch to Brand B,Follow the recommendation,Price,0,1,Buy less often,1.0,Switch to Brand B,1.0,Follow,1.0,0
+2026-08-28 23:16:07.579,Under 18,Rarely,3,3,3,2,4,Still buy it,Try the other and see what I like more or what is healthier,Try it out and see what is better,Quality,0,1,Still buy,0.0,Conditional / write-in,,Conditional / write-in,,1
+2026-08-28 23:35:43.316,Under 18,Occasionally,5,2,3,3,4,Buy it less often,It depends on the product if it’s good id look at ingredients n shi cuz u dont know what sorta shit entering your body Ykwim? But in the other hand if it’s clothing I’d stay to specific brand because of quality,"As sead before it would rely on the product, the human life isn’t always about consumerism but if one desires for it to be then it will.",Quality,0,2,Buy less often,1.0,Conditional / write-in,,Conditional / write-in,,1
+2026-08-29 00:07:01.857,Under 18,Regularly,4,4,3,2,3,Still buy it,Switch to Brand B,Follow the recommendation,Quality,0,3,Still buy,0.0,Switch to Brand B,1.0,Follow,1.0,1
+2026-08-29 00:51:59.787,Under 18,Occasionally,4,3,3,5,4,Still buy it,Stay with Brand A,Follow the recommendation,Quality,0,2,Still buy,0.0,Stay with Brand A,0.0,Follow,1.0,1
+2026-08-29 01:19:38.551,Under 18,Frequently,3,3,3,3,4,Buy it less often,Test brand b to see if it’s just as good and decide from there,Try the cheaper alternative to see if it’s worth switching,Quality,0,4,Buy less often,1.0,Conditional / write-in,,Conditional / write-in,,1
+2026-08-29 01:48:19.558,Under 18,Rarely,5,4,3,4,5,Buy it less often,"Compare quality - if A is better quality, I buy it, but if B is better than I switch to B",Compare the quality,Price,0,1,Buy less often,1.0,Conditional / write-in,,Conditional / write-in,,0
+2026-08-29 01:55:08.772,Under 18,Occasionally,5,2,4,3,2,Buy it less often,Stay with Brand A,Follow the recommendation,Price,0,2,Buy less often,1.0,Stay with Brand A,0.0,Follow,1.0,0
+2026-08-29 06:35:49.891,Under 18,Occasionally,5,4,3,1,3,Still buy it,Stay with Brand A,Ignore it,Quality,0,2,Still buy,0.0,Stay with Brand A,0.0,Ignore,0.0,1
+2026-08-29 08:21:46.295,Under 18,Frequently,5,3,2,4,3,Switch do a cheaper alternative,Switch to Brand B,Research about and buy the cheaper product,Price,0,4,Switch to cheaper,1.0,Switch to Brand B,1.0,Conditional / write-in,,0
+2026-08-29 10:12:41.207,Under 18,Occasionally,5,2,3,5,2,Switch do a cheaper alternative,Switch to Brand B,Follow the recommendation,Price,0,2,Switch to cheaper,1.0,Switch to Brand B,1.0,Follow,1.0,0
+2026-08-29 14:20:52.055,Under 18,Occasionally,5,2,3,4,3,Switch do a cheaper alternative,Switch to Brand B,Follow the recommendation,Price,0,2,Switch to cheaper,1.0,Switch to Brand B,1.0,Follow,1.0,0
+2026-08-29 18:32:52.977,Under 18,Occasionally,4,3,4,4,4,Stop buying it,Switch to Brand B,Follow the recommendation,Quality,0,2,Stop buying,1.0,Switch to Brand B,1.0,Follow,1.0,1
+2026-08-29 18:36:17.946,Under 18,Rarely,4,2,5,3,5,Buy it less often,Switch to Brand B,Follow the recommendation,Price,0,1,Buy less often,1.0,Switch to Brand B,1.0,Follow,1.0,0
+2026-08-29 18:41:51.556,Under 18,Occasionally,5,3,3,4,3,Switch do a cheaper alternative,Switch to Brand B,Follow the recommendation,Quality,0,2,Switch to cheaper,1.0,Switch to Brand B,1.0,Follow,1.0,1
+2026-08-29 18:52:02.436,Under 18,Occasionally,3,2,5,2,5,Switch do a cheaper alternative,Switch to Brand B,Follow the recommendation,Quality,0,2,Switch to cheaper,1.0,Switch to Brand B,1.0,Follow,1.0,1
+2026-08-29 18:54:41.290,Under 18,Occasionally,5,2,3,4,4,Still buy it,Switch to Brand B,Follow the recommendation,Quality,0,2,Still buy,0.0,Switch to Brand B,1.0,Follow,1.0,1
+2026-08-29 19:05:40.640,Under 18,Occasionally,3,3,2,2,4,Still buy it,Switch to Brand B,Ignore it,Quality,0,2,Still buy,0.0,Switch to Brand B,1.0,Ignore,0.0,1
+2026-08-29 19:19:45.337,Under 18,Occasionally,4,3,2,4,5,Still buy it,Switch to Brand B,Follow the recommendation,Quality,0,2,Still buy,0.0,Switch to Brand B,1.0,Follow,1.0,1
+2026-08-29 19:48:46.494,Under 18,Frequently,3,4,3,1,4,Still buy it,Stay with Brand A,Ignore it,Quality,0,4,Still buy,0.0,Stay with Brand A,0.0,Ignore,0.0,1
+2026-08-29 20:13:51.898,Under 18,Frequently,2,3,3,3,4,Buy it less often,Stay with Brand A,Ignore it,Convenience,0,4,Buy less often,1.0,Stay with Brand A,0.0,Ignore,0.0,0
+2026-08-29 20:59:22.624,Under 18,Occasionally,4,2,3,4,4,Buy it less often,Switch to Brand B,Ignore it,Price,0,2,Buy less often,1.0,Switch to Brand B,1.0,Ignore,0.0,0
+2026-08-29 21:49:43.586,Under 18,Occasionally,4,3,2,4,2,Still buy it,Switch to Brand B,Ignore it,Convenience,0,2,Still buy,0.0,Switch to Brand B,1.0,Ignore,0.0,0
+2026-08-29 21:52:22.867,Under 18,Occasionally,4,2,4,3,1,Buy it less often,Stay with Brand A,Ignore it,Convenience,0,2,Buy less often,1.0,Stay with Brand A,0.0,Ignore,0.0,0
+2026-08-29 21:58:28.488,Under 18,Frequently,3,3,4,4,3,Still buy it,Stay with Brand A,look at it and see what’s better,Quality,0,4,Still buy,0.0,Stay with Brand A,0.0,Conditional / write-in,,1
+2026-08-29 21:59:13.768,Under 18,Rarely,5,3,4,4,3,Still buy it,Stay with Brand A,Follow the recommendation,Quality,0,1,Still buy,0.0,Stay with Brand A,0.0,Follow,1.0,1
+2026-08-29 22:05:36.993,Under 18,Frequently,4,3,4,2,3,Still buy it,Stay with Brand A,Ignore it,Quality,0,4,Still buy,0.0,Stay with Brand A,0.0,Ignore,0.0,1
+2026-08-29 22:06:54.073,Under 18,Rarely,5,4,3,2,3,Still buy it,Stay with Brand A,Ignore it,Price,0,1,Still buy,0.0,Stay with Brand A,0.0,Ignore,0.0,0
+2026-08-29 22:13:10.613,Under 18,Occasionally,4,5,3,2,2,Still buy it,Stay with Brand A,Ignore it,Quality,0,2,Still buy,0.0,Stay with Brand A,0.0,Ignore,0.0,1
+2026-08-30 00:06:47.029,Under 18,Rarely,5,4,3,1,2,Still buy it,Stay with Brand A,Ignore it,Quality,0,1,Still buy,0.0,Stay with Brand A,0.0,Ignore,0.0,1
+2026-08-30 10:32:00.351,Under 18,Occasionally,3,2,2,3,4,Buy it less often,Switch to Brand B,Follow the recommendation,Quality,0,2,Buy less often,1.0,Switch to Brand B,1.0,Follow,1.0,1
+2026-08-31 13:32:38.175,Under 18,Occasionally,4,4,3,2,3,Buy it less often,Switch to Brand B,Follow the recommendation,Quality,0,2,Buy less often,1.0,Switch to Brand B,1.0,Follow,1.0,1

@@ -1,0 +1,9 @@
+target,comparison,auc_difference,ci_low,ci_high,corrected_p
+brand_switch,Logistic regression (all items) minus Single-question logistic,-0.0005471611721611757,-0.09926070979536439,0.09816638745104203,0.9911578466987209
+brand_switch,Random forest minus Logistic regression (all items),-0.05100847069597069,-0.1332770293287064,0.031260087936765,0.21869459969844526
+snack_reaction,Logistic regression (all items) minus Single-question logistic,0.010207822712418295,-0.10523931548402121,0.1256549609088578,0.8597017783230948
+snack_reaction,Random forest minus Logistic regression (all items),0.044252450980392155,-0.06199154542979342,0.15049644739057771,0.40664370471906464
+rec_follow,Logistic regression (all items) minus Single-question logistic,0.06476275510204083,-0.07700904603993247,0.20653455624401412,0.36311880475886227
+rec_follow,Random forest minus Logistic regression (all items),-0.02537414965986395,-0.0970191911667055,0.046270891846977594,0.48001260322631034
+quality_top,Logistic regression (all items) minus Single-question logistic,0.16932773109243693,0.020722118476484253,0.3179333437083896,0.026378278901066844
+quality_top,Random forest minus Logistic regression (all items),0.05698412698412698,-0.02156550911408315,0.1355337630823371,0.1512607007994685

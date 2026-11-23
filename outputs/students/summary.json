@@ -1,0 +1,61 @@
+{
+  "sample": "students",
+  "features": [
+    "freq_ord",
+    "price",
+    "loyal",
+    "novel",
+    "cheaper",
+    "rectend"
+  ],
+  "n_raw": 172,
+  "n_retained": 124,
+  "n_flagged": 3,
+  "removed_reasons": {
+    "Outside 'students' sample (age group)": 45,
+    "Clear promotional/spam response; Outside 'students' sample (age group)": 3
+  },
+  "coding": {
+    "brand_coded": {
+      "Switch to Brand B": 62,
+      "Stay with Brand A": 39,
+      "Conditional / write-in": 23
+    },
+    "snack_coded": {
+      "Buy less often": 62,
+      "Still buy": 43,
+      "Switch to cheaper": 16,
+      "Stop buying": 3
+    },
+    "rec_coded": {
+      "Follow": 71,
+      "Ignore": 37,
+      "Conditional / write-in": 16
+    },
+    "top": {
+      "Quality": 89,
+      "Price": 21,
+      "Convenience": 12,
+      "Brand": 2
+    }
+  },
+  "permutation_p": {
+    "brand_switch": 0.03696303696303696,
+    "snack_reaction": 0.12687312687312688,
+    "rec_follow": 0.014985014985014986,
+    "quality_top": 0.15584415584415584
+  },
+  "holm_p_primary": {
+    "rec_follow": 0.04495504495504496,
+    "brand_switch": 0.07392607392607392,
+    "snack_reaction": 0.12687312687312688
+  },
+  "n_permutations": 1000,
+  "n_bootstrap": 1000,
+  "single_items": {
+    "brand_switch": "cheaper",
+    "snack_reaction": "price",
+    "rec_follow": "rectend",
+    "quality_top": "price"
+  }
+}
